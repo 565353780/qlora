@@ -14,6 +14,12 @@ conda activate qlora
 ./run.sh
 ```
 
+## Train
+
+```bash
+./train.sh
+```
+
 ## Log
 
 ```bash
