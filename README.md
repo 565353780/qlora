@@ -19,11 +19,16 @@ conda activate qlora
 ```bash
 ./train.sh
 ```
-
 ## Log
 
 ```bash
 ./log.sh <lora-folder-name>
+```
+
+## Quat
+
+```bash
+python quat.py
 ```
 
 ## Enjoy it~
