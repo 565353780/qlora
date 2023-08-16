@@ -1,6 +1,6 @@
 cd ../qlr
 python qlora.py \
-	--model_name_or_path /home/chli/github/textgen/models/llama-2-7b-chat-hf/ \
+	--model_name_or_path /home/chli/github/textgen/models/chinese-alpaca-2-7b/ \
 	--output_dir ./output \
 	--do_train False \
 	--do_eval False \
