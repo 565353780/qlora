@@ -6,7 +6,7 @@ python qlora.py \
 	--do_eval False \
 	--do_predict True \
 	--predict_with_generate \
-	--per_device_eval_batch_size 1 \
+	--per_device_eval_batch_size 4 \
 	--dataset /home/chli/chLi/Sql-Dataset/data_test1_train.json \
 	--source_max_len 512 \
 	--target_max_len 128 \
